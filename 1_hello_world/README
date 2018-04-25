@@ -1,0 +1,4 @@
+hello_world.rs : this is a normal Rust hello world program
+hello_world/ : this is a cargo directory, created as: cargo new hello_cargo --bin
+               To build and run:  cd hello_cargo
+                                  cargo build
